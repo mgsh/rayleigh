@@ -91,7 +91,7 @@ Rods respond only to intensity of light, not its color, and are far more numerou
 Cones have three distinct types ('S', 'M', 'L'), each responding strongest to a specific wavelength of light.
 Our perception of color is derived from the response rates of the photoreceptors, as well as our experience with colors and expectations.
 
-<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Cone-response.svg/500px-Cone-response.svg.png" width="320px" /><br />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Cone-response-en.svg/550px-Cone-response-en.svg.png" width="320px" /><br />
 Human retinal cell response curves. Image from Wikimedia Commons.
 
 ### RGB color space
