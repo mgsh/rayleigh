@@ -140,8 +140,8 @@ The opponent colors have no in-between point: we can imagine a point between blu
 
 In the L\*a*b\* space, simple Euclidean distance (\\(\sqrt{L^2 + a^2 + b^2}\\) between two colors, which corresponds to the intuitive notion of a distance between 3D points, is a good approximation to perceptual judgements of their difference.
 
-<img src="http://www.couleur.org/spaces/Labspace.jpg" width="320px" /><br />
-CIELab color space. Image from couleur.org.
+<img src="https://www.colorcodehex.com/images/cie-lab.jpeg"/><br />
+CIELab color space. Image from colorcodehex.com.
 
 ## Representing Multiple Colors
 
